@@ -23,6 +23,6 @@ Mainly using C (or Java/Python if needed).
    ```bash
    git clone https://github.com/ihSakib/CSE_2102.git
 ## 🧑‍💻 Author Info
-**Name:** Iftekhar Hossain  
-**ID:** B220101024  
+**Name:** Mozammel Haque  
+**ID:** B220101016  
 **Session:** 2022–2023  
