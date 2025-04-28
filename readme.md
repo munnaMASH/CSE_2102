@@ -21,7 +21,7 @@ Mainly using C (or Java/Python if needed).
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ihSakib/CSE_2102.git
+   git clone https://github.com/munnaMASH/CSE_2102.git
 ## 🧑‍💻 Author Info
 **Name:** Mozammel Haque  
 **ID:** B220101016  
